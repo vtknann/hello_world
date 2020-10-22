@@ -1,2 +1,5 @@
 # hello_world
-Github hello world project
+## What is in here?
+- Github
+- hello world
+- project
